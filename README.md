@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm kinyera alvine</h1>
-<h3 align="center">A passionate frontend developer from uganda</h3>
+<h3 align="center"> <b Am a software Engineer/b></h3>
 <br/>
 
 
