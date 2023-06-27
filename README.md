@@ -3,8 +3,7 @@
 <h3 align="center">A passionate frontend developer from uganda</h3>
 <br/>
 
-<!-- about me -->
-<h2 align="center"> :bust_in_silhouette: About Me :bust_in_silhouette: </h2>
+
 
 <br/>
 
