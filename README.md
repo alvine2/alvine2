@@ -1,5 +1,5 @@
 <!-- cover image -->
-<img src="https://user-images.githubusercontent.com/56265819/176989215-f34717f4-54d2-45dc-ad90-ec10e7d49bcd.png" alt="alvinekinyera cover image" />
+<img src="[https://user-images.githubusercontent.com/56265819/176989215-f34717f4-54d2-45dc-ad90-ec10e7d49bcd.png" alt="alvinekinyera cover image"](https://www.britannica.com/list/influential-computer-programming-languages) />
 <!-- end cover image -->
 
 <br/>
