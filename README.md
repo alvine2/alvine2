@@ -8,7 +8,7 @@
 <p align="center">📫 Reach me through <strong>alvinekinyera@gmail.com</strong>.</p>
 <h2 align="center">🛠 Languages and Tools 🛠</h2>
 <p align="center"><img src="https://skillicons.dev/icons?i=c,cpp,javascript,typescript" /></p>
-<p align="center"><img src="https://skillicons.dev/icons?i=react,next,redux,html,css,bootstrap,tailwind" /></p>
+<p align="center"><img src="https://skillicons.dev/icons?i=react,next,redux,html,css,bootstrap,tailwind flutter" /></p>
 <p align="center"><img src="https://skillicons.dev/icons?i=nodejs,express,mongodb" /></p>
 <p align="center"><img src="https://skillicons.dev/icons?i=git,github,vscode,linux" /></p>
 <h2 align="center">📊 GitHub Analytics 📊</h2>
