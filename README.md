@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Kinyera Alvine</h1>
-<h3 align="center"> A Frontend developer from uganda</h3>
+<h3 align="center"> A Back-end developer from uganda</h3>
 
 - 🔭 I’m currently working on **full-stack Banking app**
 
