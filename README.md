@@ -6,16 +6,6 @@
 -  Passionate about building scalable real-world applications
 
 ---
-
-<h3 align="center">Connect with me</h3>
-<p align="center">
-<a href="https://twitter.com/alvinekinyera">
-<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" width="40"/>
-</a>
-
-<a href="https://www.linkedin.com/in/kinyera-alvine-8a0a10219/">
-<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" width="40"/>
-</a>
 </p>
 
 ---
