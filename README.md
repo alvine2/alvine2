@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Kinyera Alvine</h1>
 <h3 align="center">A Fullstack Developer from Uganda</h3>
 
-- 🔭 I’m currently working on **a full-stack Banking App**
-- 🌱 Improving backend, APIs, and system design
-- 💡 Passionate about building scalable real-world applications
+-  I’m currently working on **a full-stack Banking App**
+-  Improving backend, APIs, and system design
+-  Passionate about building scalable real-world applications
 
 ---
 
